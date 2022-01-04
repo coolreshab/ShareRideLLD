@@ -1,0 +1,54 @@
+50
+1
+1 Rohan M 36
+2
+KA-01-12345 Swift 1 4
+1
+2 Shashank M 29
+2
+TS-05-62395 Baleno 2 4
+1
+3 Nandini F 29
+1
+4 Shipra F 27
+2
+KA-05-41491 Polo 4 4
+2
+KA-12-12332 Activa 4 2
+1
+5 Gaurav M 29
+1
+6 Rahul M 35
+2
+KA-05-1234 XUV 6 6
+3
+Hyderabad Bangalore KA-01-12345 1
+3
+Bangalore Mysore KA-12-12332 1
+3
+Bangalore Mysore KA-05-41491 2
+3
+Hyderabad Bangalore TS-05-62395 2
+3
+Hyderabad Bangalore KA-05-1234 5
+3
+Bangalore Pune KA-01-12345 1
+4
+Bangalore Mysore 3 MOST_VACANT
+4
+Bangalore Mysore 5 MODEL Activa
+4
+Mumbai Bangalore 2 MOST_VACANT
+4
+Hyderabad Bangalore 1 MODEL Baleno
+4
+Hyderabad Bangalore 2 MODEL Polo
+5
+KA-01-12345
+5
+KA-12-12332
+5
+KA-05-41491
+5
+TS-05-62395
+6
